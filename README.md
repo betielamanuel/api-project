@@ -58,7 +58,7 @@ The Image Finder App is a simple web application that allows users to search for
 ## Known Issues
 
 - **API Rate Limiting**: The Unsplash API has rate limits; excessive requests may result in errors.
-- **Browser Compatibility**: Ensure you use modern browsers for the best experience.
+- **Browser Compatibility**: Ensuring usage of modern browsers for the best experience.
 
 ## Future Improvements
 
